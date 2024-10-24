@@ -7,7 +7,7 @@ function Sale() {
         {/* Title Section */}
         <div className="text-center mb-5">
           <span className="border border-blue-100 text-gray-700 mb-2 font-bold p-1 inline-block">
-            Today's
+            Today&apos;s
           </span>
           <h2 className="text-3xl font-bold mt-3">Prime Profit Stream</h2>
         </div>
